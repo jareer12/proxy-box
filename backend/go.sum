@@ -1,3 +1,5 @@
+github.com/garrison-henkle/surrealdb.go v1.0.3 h1:9KaWnTU2HU7VJIRxoyLg1M+ejD5QoOnt1iAzTHUv3iA=
+github.com/garrison-henkle/surrealdb.go v1.0.3/go.mod h1:w8iXR5mOKETEcwuK2x4P9lyACa+Pk5WCefSyK/VABC8=
 github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
 github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/surrealdb/surrealdb.go v0.1.1 h1:epKUlJkiTvFNpyKqsvUq7R68RmECDgmEljL2rC/k7DM=

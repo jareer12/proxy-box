@@ -28,7 +28,7 @@ export default component$(function () {
                         const Logos: any = logos
                         const type: any = app.type || "node"
                         const img: any = Logos[type];
-                        return <main onClick$={function () { }} className='cursor-pointer rounded-md bg-gradient-to-t from-wood-300 via-wood-50 to-wood-300 hover:bg-wood-600 border border-wood-50 lg:hover:scale-105 transition-all duration-200'>
+                        return <main onClick$={function () { }} className='cursor-pointer rounded-md bg-wood-300 hover:bg-wood-500 border border-wood-50 transition-all duration-200'>
                             <div className='p-3 flex items-center space-x-3'>
                                 <img src={app.type != undefined ? img : `https://cdn-icons-png.flaticon.com/512/5968/5968322.png`} alt="Node.js" className='w-12 h-12' />
                                 <h2>{app.name}</h2>

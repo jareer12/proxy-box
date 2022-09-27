@@ -9,6 +9,7 @@ try {
     database: 'test',
     namespace: 'test',
   })
+
   Surreal.CreateRecord(`apps`, undefined, {
     name: 'Node.js HTTP Pass',
     scheme: 'http',
